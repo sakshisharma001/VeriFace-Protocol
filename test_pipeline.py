@@ -1,5 +1,5 @@
 """
-Automated Test Suite for Aegis-ZK Protocol
+Automated Test Suite for VeriFace-Protocol
 HackerHouse Goa 2026 - Shortlisting Task 3
 """
 
@@ -12,7 +12,7 @@ from core.blockchain_engine import BlockchainEngine, SimulatedEVMState
 from core.manifest import ManifestBuilder
 
 
-class TestAegisZKPipeline(unittest.TestCase):
+class TestVeriFaceZKPipeline(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):

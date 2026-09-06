@@ -1,5 +1,5 @@
 """
-Aegis-ZK Core Engine Package
+VeriFace Core Engine Package
 HackerHouse Goa 2026 - Task 3
 """
 

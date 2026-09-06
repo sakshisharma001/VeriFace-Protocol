@@ -1,6 +1,6 @@
 """
 Digital Provenance Manifest & Cryptographic Certificate Generator
-Aegis-ZK Protocol - HackerHouse Goa 2026 Task 3
+VeriFace-Protocol - HackerHouse Goa 2026 Task 3
 """
 
 import json
@@ -38,7 +38,7 @@ class ManifestBuilder:
         Constructs canonical JSON manifest and computes its deterministic Keccak-256 digest.
         """
         canonical_data = {
-            "protocol": "Aegis-ZK-Provenance-v1",
+            "protocol": "VeriFace-Protocol-v1",
             "biometric_attestation": {
                 "input_fingerprint": input_fingerprint_hex,
                 "discovered_fingerprint": web_fingerprint_hex,
@@ -55,7 +55,7 @@ class ManifestBuilder:
                 "search_engine": social_post_metadata.get("search_engine", "Visual Oracle")
             },
             "timestamp": int(time.time()),
-            "verifier": verifier_address or "0x71C...AegisOracle"
+            "verifier": verifier_address or "0x71C...VeriFaceOracle"
         }
 
         # Canonical deterministic JSON string (sorted keys, compact separators)
@@ -87,7 +87,7 @@ class ManifestBuilder:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aegis-ZK Digital Provenance Certificate</title>
+    <title>VeriFace Digital Provenance Certificate</title>
     <style>
         body {{
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
@@ -170,7 +170,7 @@ class ManifestBuilder:
 <body>
     <div class="certificate-card">
         <div class="badge">ON-CHAIN VERIFIED PROVENANCE</div>
-        <h1>Aegis-ZK Authenticity Seal</h1>
+        <h1>VeriFace Authenticity Seal</h1>
         <div class="subtitle">Decentralized Face Biometrics & Social Media Provenance Certificate</div>
 
         <div class="field-group">

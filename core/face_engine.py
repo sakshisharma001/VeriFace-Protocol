@@ -1,6 +1,6 @@
 """
 Face Identification & Biometric Vector Quantization Engine
-Aegis-ZK Protocol - HackerHouse Goa 2026 Task 3
+VeriFace-Protocol - HackerHouse Goa 2026 Task 3
 """
 
 import os
