@@ -1,0 +1,20 @@
+{
+  "protocol": "Aegis-ZK-Provenance-v1",
+  "biometric_attestation": {
+    "input_fingerprint": "0x2b92fa9ae19e8310d3c17c95a9bcc7c2587de6a6a9f80253f5e115b5954d4ea5",
+    "discovered_fingerprint": "0x2b92fa9ae19e8310d3c17c95a9bcc7c2587de6a6a9f80253f5e115b5954d4ea5",
+    "hamming_distance_bits": 0,
+    "cosine_similarity": 0.9996,
+    "match_verdict": "VERIFIED_AUTHENTIC"
+  },
+  "discovered_post": {
+    "platform": "X (Twitter)",
+    "source_url": "https://x.com/elonmusk/status/178923019283749102",
+    "author": "@elonmusk",
+    "title": "Elon Musk key presentation on Starship & AI architecture",
+    "post_timestamp": 1715502400,
+    "search_engine": "Social Visual Indexer"
+  },
+  "timestamp": 1788708906,
+  "verifier": "0x71C8412613731E235715878645bf7891b4c47291"
+}

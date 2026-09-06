@@ -1,0 +1,77 @@
+{
+  "proofs": {
+    "0xdda70e9f904cd4220b4e604ae2ec7319feaef9f1f45022252f59e22ca225a458": {
+      "proofId": "0xdda70e9f904cd4220b4e604ae2ec7319feaef9f1f45022252f59e22ca225a458",
+      "inputFingerprint": "0x2b92fa9ae19e8310d3c17c95a9bcc7c2587de6a6a9f80253f5e115b5954d4ea5",
+      "discoveredFingerprint": "0x2b92fa9ae19e8310d3c17c95a9bcc7c2587de6a6a9f80253f5e115b5954d4ea5",
+      "metadataDigest": "0xfebf7299fda665644a2bfa3bb1fcf10a0611795ffa5bb5c1f9c335def4c21960",
+      "hammingDistance": 0,
+      "blockTimestamp": 1788707818,
+      "verifier": "0x71C8412613731E235715878645bf7891b4c47291",
+      "sourceUrl": "https://x.com/elonmusk/status/178923019283749102",
+      "isRevoked": false
+    },
+    "0xf000ff1e29003fbf364c35104c0d58a352eb9e5fcd44c94a4d7abd5e00a956ac": {
+      "proofId": "0xf000ff1e29003fbf364c35104c0d58a352eb9e5fcd44c94a4d7abd5e00a956ac",
+      "inputFingerprint": "0x1111111111111111111111111111111111111111111111111111111111111111",
+      "discoveredFingerprint": "0x1111111111111111111111111111111111111111111111111111111111111111",
+      "metadataDigest": "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "hammingDistance": 0,
+      "blockTimestamp": 1788707826,
+      "verifier": "0x71C8412613731E235715878645bf7891b4c47291",
+      "sourceUrl": "https://x.com/verified/status/123",
+      "isRevoked": false
+    },
+    "0xde9830c1e5538ce0fa6e074dc44151c8b5e6e59d0557af0d20fc803de40d8410": {
+      "proofId": "0xde9830c1e5538ce0fa6e074dc44151c8b5e6e59d0557af0d20fc803de40d8410",
+      "inputFingerprint": "0x1111111111111111111111111111111111111111111111111111111111111111",
+      "discoveredFingerprint": "0x1111111111111111111111111111111111111111111111111111111111111111",
+      "metadataDigest": "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "hammingDistance": 0,
+      "blockTimestamp": 1788707946,
+      "verifier": "0x71C8412613731E235715878645bf7891b4c47291",
+      "sourceUrl": "https://x.com/verified/status/123",
+      "isRevoked": false
+    },
+    "0x050950685b1e4439642786d791939021a735cd4cf0ef17e8527be11a9b43b4c6": {
+      "proofId": "0x050950685b1e4439642786d791939021a735cd4cf0ef17e8527be11a9b43b4c6",
+      "inputFingerprint": "0x2b92fa9ae19e8310d3c17c95a9bcc7c2587de6a6a9f80253f5e115b5954d4ea5",
+      "discoveredFingerprint": "0x2b92fa9ae19e8310d3c17c95a9bcc7c2587de6a6a9f80253f5e115b5954d4ea5",
+      "metadataDigest": "0xed2a7d5f6539da78d8d0842e7f8036af047720e1e012b65b0dfabfd43b975451",
+      "hammingDistance": 0,
+      "blockTimestamp": 1788707955,
+      "verifier": "0x71C8412613731E235715878645bf7891b4c47291",
+      "sourceUrl": "https://x.com/elonmusk/status/178923019283749102",
+      "isRevoked": false
+    },
+    "0x8287f7a78741aa63212eecf188f991613cb16591fb89bb3121c58a77685dcc16": {
+      "proofId": "0x8287f7a78741aa63212eecf188f991613cb16591fb89bb3121c58a77685dcc16",
+      "inputFingerprint": "0x1111111111111111111111111111111111111111111111111111111111111111",
+      "discoveredFingerprint": "0x1111111111111111111111111111111111111111111111111111111111111111",
+      "metadataDigest": "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "hammingDistance": 0,
+      "blockTimestamp": 1788708448,
+      "verifier": "0x71C8412613731E235715878645bf7891b4c47291",
+      "sourceUrl": "https://x.com/verified/status/123",
+      "isRevoked": false
+    },
+    "0x8045c49f672c5009ee8cea6cb9afeb25b8ab42d92c8ee347294ce4faa936d4ef": {
+      "proofId": "0x8045c49f672c5009ee8cea6cb9afeb25b8ab42d92c8ee347294ce4faa936d4ef",
+      "inputFingerprint": "0x2b92fa9ae19e8310d3c17c95a9bcc7c2587de6a6a9f80253f5e115b5954d4ea5",
+      "discoveredFingerprint": "0x2b92fa9ae19e8310d3c17c95a9bcc7c2587de6a6a9f80253f5e115b5954d4ea5",
+      "metadataDigest": "0xb15b5f2fe07e49f6243726721e30bfeeed7424c880f7783dfcafca11f6942839",
+      "hammingDistance": 0,
+      "blockTimestamp": 1788708906,
+      "verifier": "0x71C8412613731E235715878645bf7891b4c47291",
+      "sourceUrl": "https://x.com/elonmusk/status/178923019283749102",
+      "isRevoked": false
+    }
+  },
+  "digest_to_proof": {
+    "0xfebf7299fda665644a2bfa3bb1fcf10a0611795ffa5bb5c1f9c335def4c21960": "0xdda70e9f904cd4220b4e604ae2ec7319feaef9f1f45022252f59e22ca225a458",
+    "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa": "0x8287f7a78741aa63212eecf188f991613cb16591fb89bb3121c58a77685dcc16",
+    "0xed2a7d5f6539da78d8d0842e7f8036af047720e1e012b65b0dfabfd43b975451": "0x050950685b1e4439642786d791939021a735cd4cf0ef17e8527be11a9b43b4c6",
+    "0xb15b5f2fe07e49f6243726721e30bfeeed7424c880f7783dfcafca11f6942839": "0x8045c49f672c5009ee8cea6cb9afeb25b8ab42d92c8ee347294ce4faa936d4ef"
+  },
+  "block_number": 10842916
+}
